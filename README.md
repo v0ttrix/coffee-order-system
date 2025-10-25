@@ -87,11 +87,11 @@ CoffeeOrder.Tests/
 dotnet run --project .\CoffeeOrder.Demo\CoffeeOrder.Demo.csproj
 ```
 
-## Build checklist
+## Features
 
-- [x] CoffeeOrder and CoffeeOrder.Tests included
-- [x] 25 or more tests total with AAA naming and style
-- [x] 2 red tests present and tagged Pending
-- [x] README.md and Reflection.md
-- [x] Builds and tests run in a clean environment
-- [x] No external I/O; deterministic output
+- CoffeeOrder and CoffeeOrder.Tests included
+- 25+ tests total with AAA naming and style
+- 2 red tests present and tagged Pending (TDD in progress)
+- README.md and Reflection.md documentation
+- Builds and tests run in a clean environment
+- No external I/O; deterministic output
